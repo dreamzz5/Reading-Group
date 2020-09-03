@@ -13,8 +13,8 @@
 
 #### 8月14日<br>
 1.Stable Prediction with Model Misspecification and Agnostic Distribution Shift<br>
-**Summary:**<br>
 
+**Summary:**<br>
 *This paper focus on the problem of the different distribution between the train data and test data on linear regression. Author consider that vanishing the unstable loss, which easier effect by environment, to maintain a general minimal loss for any environment. Thus, by formula derivation, vanishing the unstable loss is equal to remove the correlation among all sample. It could be think that a noval approach to reweight the sample on linear regression.* <br>
 
 作者：Kun Kuang, Ruoxuan Xiong, Peng Cui, Susan Athey, Bo Li <br>
