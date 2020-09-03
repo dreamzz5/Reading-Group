@@ -13,9 +13,15 @@
 
 #### 8月14日<br>
 1.Stable Prediction with Model Misspecification and Agnostic Distribution Shift<br>
+**Summary:**<br>
+
+*This paper focus on the problem of the different distribution between the train data and test data on linear regression. To maintain a general minimal loss for any environment, the author consider that vanishing the unstable loss, which easier effect by environment. Thus, by formula derivation, vanishing the unstable loss is equal to remove the correlation among all features.*<br>
+
 作者：Kun Kuang, Ruoxuan Xiong, Peng Cui, Susan Athey, Bo Li <br>
 论文链接：http://pengcui.thumedialab.com/papers/Stable_DWR.pdf <br>
 分享人：王宏俊  [PPT](/ppt/Reading%20group%208.14.ppt)
+
+
 
 #### 8月7日<br>
 1.AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction<br>
