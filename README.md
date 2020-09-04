@@ -68,3 +68,14 @@ Improving Traffic Prediction with Navigation Data<br>
 作者：Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang <br>
 论文链接：https://arxiv.org/pdf/1908.01000.pdf <br>
 分享人： 邓锦亮 [PPT](/ppt/Graph%20Representation%20Learning.pptx)
+
+
+#### 6月15日<br>
+1.Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction<br>
+
+**Summary:**<br>
+*This work solves the problem of forecasting the flow of crowds in each and every region of a city. The motivation is that this problem is of great importance to traffic management and public safety. It achieves this by convolution-based residual networks to model nearby and distant spatial dependencies between any two regions in a city.*<br>
+
+作者：Junbo Zhang, Yu Zheng, Dekang Qi<br>
+论文链接：https://arxiv.org/pdf/1610.00081v2.pdf <br>
+分享人： 蔡泽坤 [PPT](/ppt/Zekun_Cai_20200605.pptx)
