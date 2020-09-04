@@ -64,4 +64,3 @@ Improving Traffic Prediction with Navigation Data<br>
 作者：Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang <br>
 论文链接：https://arxiv.org/pdf/1908.01000.pdf <br>
 分享人： 邓锦亮 [PPT](/ppt/Graph%20Representation%20Learning.pptx)
-
