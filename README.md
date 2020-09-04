@@ -7,6 +7,10 @@
 分享人：李永康  [PPT](/ppt/李永康NCF分享.pptx)
 
 2.Learning Stable Graphs from Multiple Environments with Selection Bias <br>
+
+**Summary:**<br>
+*This work solves the problem of learning stable graphs from multiple environments with selection bias. The motivation is that the data collection process of graph generation is full of known or unknown sample selection biases, leading to spurious correlations among entities. It achieves this by proposing a SGL framework, which consists of a GCN module for structure embedding and a designed E-VAE for high-dimensional sparse set generation.* <br>
+
 作者：Yue He, Peng Cui, Jianxin Ma, Hao Zou, Xiaowei Wang, Hongxia Yang, and Philip S. Yu <br>
 论文链接：https://ftp.cs.ucla.edu/pub/stat_ser/r381.pdf<br>
 分享人：蔡泽坤  [PPT](/ppt/Zekun_Cai_20200821.pptx)
